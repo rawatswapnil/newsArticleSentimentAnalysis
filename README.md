@@ -9,7 +9,7 @@ About : This project retrieves news articles of various categories (technology, 
 	from different categories based on their sentiment (positive, negative or neutral). Along with that we also
 	get the most positive and most negative news articles from the three categories.
 
-	Submitted by : SWAPNIL RAWAT (17BCE1188)
+	Submitted by : SWAPNIL RAWAT
 
 How to run :
 
